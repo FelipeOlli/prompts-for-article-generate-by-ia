@@ -1,5 +1,7 @@
 
-![alt text](banner.png)
+<img src="Image/capa_python.png" alt="Logo da Minha Empresa">
+
+<br><br>
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
