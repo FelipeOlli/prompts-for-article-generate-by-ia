@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="100" src="FelipeOlli/prompts-for-article-generate-by-ia/Image/banner.png">
-</p>
+
 
 
 <p align="center">
@@ -12,25 +10,17 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/desvendando-as-automacoes-com-python?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/desvendando-as-automacoes-com-python?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 
+
+<BR>
+📕Clique aqui para ler o artigo</a>
+<BR><BR>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -71,13 +61,7 @@ Python Code
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10
-      width=80
-      src="FelipeOlli/prompts-for-article-generate-by-ia/Image/1702988565429.jpg"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Oliveira<br>
+    <p>&nbsp&nbsp&nbsp Felipe Oliveira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
